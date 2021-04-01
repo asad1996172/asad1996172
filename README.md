@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Asad</h1>
+<h3 align="center">Software and AI/ML Engineer</h3>
 
-<!--
-**asad1996172/asad1996172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asad1996172&label=Profile%20views&color=0e75b6&style=flat" alt="asad1996172" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Portfolio [https://asadmahmood.me/](https://asadmahmood.me/)
+
+- 📝 I write articles on [https://asad1996172.medium.com/](https://asad1996172.medium.com/)
+
+- 📫 How to reach me **asad007mahmood@gmail.com**
+
+
